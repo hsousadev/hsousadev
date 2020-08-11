@@ -1,7 +1,7 @@
 
 
 My name is Washington Henrique Fernandes de Sousa 👋 <br>
-But please call for **just HENRIQUE** <br> <br>
+But please **just HENRIQUE** it's enough <br> <br>
 I'm from Brazil, Jacareí/SP.
 Studying, 3th period, Systems Analysis and Development at the Fatec - São José dos Campos. <br>
 
