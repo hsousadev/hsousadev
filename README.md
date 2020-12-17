@@ -21,6 +21,11 @@ Here are some info about me:
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
+- 📜 Techs i already used:
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="css3" width="40" height="40"/>
+</p>
 
 - 💻 Techs i already used and continue to develop: 
 
