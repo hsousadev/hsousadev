@@ -39,7 +39,7 @@ Here are some info about me:
 
 - 🍃 My moment:
 
-I am currently focused on frontend development, but I have experience as an instructor, IT support and digital media, precisely with Design (CorelDraw) and Video Editing (VEGAS and HITFilms).
+I am currently focused on frontend development, but I have experience as an instructor, IT support and digital media, precisely with Design (CorelDraw and FIGMA) and Video Editing (VEGAS and HITFilms).
 
 - 👤 Find me on social medias: <br> 
 
