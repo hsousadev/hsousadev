@@ -16,30 +16,30 @@ Here are some info about me:
 - 📫 How to reach me *washington.sousa01@fatec.sp.gov.br*
 - 🌱 I’m currently learning: 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+ <img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="express" width="40" height="40"/>
 </p>
 
 - 📜 Techs i already used:
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="c" width="40" height="40"/>
 </p>
 
 - 💻 Techs i already used and continue to develop: 
 
 <p align="left"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="css3" width="40" height="40"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="html5" width="40" height="40"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>
 </p>
 
 - 🎯 Interested technologies:
 
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" width="40" height="40"/>
 
 
 - 🍃 My moment:
