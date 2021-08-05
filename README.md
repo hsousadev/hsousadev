@@ -1,7 +1,7 @@
 ## HELLO WORLD 👋, HENRIQUE HERE 💡
 #### Frontend Developer and Analysis and Systems Development Student
 
-<a href="https://github.com/leonardomessias98">
+<a href="https://github.com/justhenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justhenrique&show_icons=true&theme=radical" />
 </a>
 
