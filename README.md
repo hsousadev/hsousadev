@@ -1,4 +1,6 @@
-## HELLO WORLD 👋, HENRIQUE HERE 💡
+![cover-without-avatar](https://user-images.githubusercontent.com/54003876/128451049-85a5a2b1-377b-4bce-a67e-08905c006d39.png)
+
+## HELLO WORLD 👋, HENRIQUE HERE <a href="https://linkedin.com/in/justehenrique" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="justhenrique" height="30" width="30" /></a>
 #### Frontend Developer and Analysis and Systems Development Student
 
 <a href="https://github.com/justhenrique">
@@ -24,8 +26,3 @@ Today I’m currently working at <a href="https://ensinio.com/pt/">Ensinio<a/> -
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-
-
-**☑️ Find me on Linkedin:** <br> 
-
-<a href="https://linkedin.com/in/justehenrique" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="justhenrique" height="30" width="30" /></a>
