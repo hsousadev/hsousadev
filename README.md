@@ -1,4 +1,4 @@
-![cover-without-avatar](https://user-images.githubusercontent.com/54003876/128451049-85a5a2b1-377b-4bce-a67e-08905c006d39.png)
+
 
 ## HELLO WORLD 👋, HENRIQUE HERE <a href="https://linkedin.com/in/justehenrique" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="justhenrique" height="30" width="30" /></a>
 #### Frontend Developer and Analysis and Systems Development Student
@@ -10,7 +10,7 @@
 My full name is Washington Henrique Fernandes de Sousa 👋 <br>
 But please **just HENRIQUE** it's enough <br> <br>
 I'm from Brazil <img src="https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil.png" width="20px" height="15px" /> </br>
-Studying, 4th period, Systems Analysis and Development at the Fatec - São José dos Campos. <br>
+Studying, 6th period, Systems Analysis and Development at the Fatec - São José dos Campos. <br>
 
 *~always learning*
 
