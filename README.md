@@ -3,7 +3,7 @@
 
 ![github-cover](https://user-images.githubusercontent.com/54003876/193731519-0c012151-f11d-43ea-a2dd-52360fba773d.png)
 
-- 👨‍💻 Há quase 2 anos desenvolvendo e programando interfaces com JavaScript, React JS e Typescript. <br/>
+- 👨‍💻 Há mais de 2 anos desenvolvendo e programando interfaces com JavaScript, React JS e Typescript. <br/>
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec SJC  <br/>
 - 💡 Interesses em desenvolvimento Front-end com React, React Native e UX/UI Design. 
 
