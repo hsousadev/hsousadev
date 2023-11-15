@@ -20,7 +20,7 @@
 ---
 
 ##### Linkedin:
- [![Linkedin Badge](https://img.shields.io/badge/-HENRIQUE%20SOUSA-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justhenrique/)](https://www.linkedin.com/in/justhenrique/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-HENRIQUE%20SOUSA-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justhenrique/)](https://www.linkedin.com/in/hsousadev/) 
 
 
 🚀 Tentando ser um pouquinho melhor do que ontem.
