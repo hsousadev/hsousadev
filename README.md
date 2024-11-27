@@ -3,7 +3,9 @@
 
 ![github-cover](https://user-images.githubusercontent.com/54003876/193731519-0c012151-f11d-43ea-a2dd-52360fba773d.png)
 
-3 anos atuando como programador e desenvolvendo interfaces com JavaScript, React.js, Next.js e Typescript. Graduado em Análise e Desenvolvimento de Sistemas pela Fatec de São José dos Campos<br/>
+_+_ de 3 anos atuando como programador e desenvolvendo interfaces com JavaScript, React.js, Next.js e Typescript. Graduado em Análise e Desenvolvimento de Sistemas pela Fatec de São José dos Campos<br/>
+
+🎓 Atualmente fazer Pós gradução em MBA Desenvolvimento Full-stack pela Rocketseat. 
 
 🌐 **Meu web-portfólio:** https://henriquesousadev.vercel.app/
 
